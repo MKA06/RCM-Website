@@ -1,0 +1,31 @@
+
+
+
+#a1 {
+    padding-left: 120px !important;
+}
+
+
+#a2 {
+    padding-left: 40px !important;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+.gameboard {
+    background-image: url(https://lazymuttgames.com/games/Abalone/images/board.png);
+    background-repeat: no-repeat;
+    width: 404px;
+    height: 353px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}

@@ -1,0 +1,145 @@
+
+
+
+.bg-Red{
+  background-color: darkred;
+}
+
+#logonav{
+  width: 32px;
+  height: 32px;
+  
+}
+
+#brand {
+  padding-left: 16px;
+}
+
+.react-calendar {
+  border-style: solid !important;
+  border-color: darkred !important;
+  border-width: 3px !important;
+}
+
+#fasbas {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.nexotitle {
+  font-size:35px;
+  font-family: 'Times New Roman';
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.examples{
+  font-size:20x;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.nexotitle2 {
+  font-size:25px;
+  font-family: 'Times New Roman';
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.nexotool{
+  font-size:20px;
+  font-family: 'Times New Roman';
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+
+.ntext {
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+
+#sticky-footer {
+  
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+.textcolor {
+  color: black;
+}
+#cards {
+  border-style: solid !important;
+  border-color: darkred !important;
+  border-width: 3px !important;
+  height: 270px !important; 
+}
+
+hr {
+  border-style: solid !important;
+  border-color: black !important;
+  border-width: 1px !important;
+}
+
+
+  
+#ideainput {
+  width: 500px !important;
+}
+
+.languageinput {
+  width: 800px !important;
+  height: 100px !important;
+}
+
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 100vh !important;
+  z-index: 100;
+  padding: 70px 0 0;
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+#sidebar-wrapper{
+  min-height: 100vh !important;
+  width: 100vw;
+  margin-left: -1rem;
+  -webkit-transition: margin .25s ease-out;
+  -moz-transition: margin .25s ease-out;
+  -o-transition: margin .25s ease-out;
+  transition: margin .25s ease-out;
+}
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#page-content-wrapper {
+  min-width: 0;
+  width: 100%;
+}
+
+#animation {
+  padding-top: 200px;
+}
+
+.testtitle{
+  font-size: medium;
+  margin: 2;
+}
+
+.question{
+  height: 400px;
+  
+}
